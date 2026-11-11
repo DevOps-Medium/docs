@@ -7,7 +7,7 @@ description: How DevOps Medium collects, uses and protects your data, which cook
 
 # Privacy Policy
 
-_Last updated: October 14, 2026_
+_Last updated: November 11, 2026_
 
 This policy explains what personal data DevOps Medium ("we", "us") collects when you use [devopsmedium.com](https://devopsmedium.com), why we collect it, and the choices you have. If you have questions, email <hello@devopsmedium.com>.
 
@@ -26,7 +26,7 @@ The [contact form](/contactus) asks for your name, email address, an optional su
 
 ### When You Browse
 
-Our hosting and content delivery provider, Cloudflare, processes technical data needed to deliver the site and keep it secure: your IP address, browser user agent, the pages you request and the time of each request. We may use Cloudflare Turnstile to protect the contact form from spam. Turnstile checks your browser without tracking you across sites.
+Our hosting and content delivery provider, Cloudflare, processes technical data needed to deliver the site and keep it secure: your IP address, browser user agent, the pages you request and the time of each request. We use Cloudflare Turnstile to protect the contact form from spam. Turnstile checks your browser without tracking you across sites.
 
 ### When You Search
 
