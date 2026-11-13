@@ -7,9 +7,9 @@ description: The terms for using DevOps Medium, its tutorials, lab manuals and s
 
 # Terms of Use
 
-_Last updated: November 1, 2026_
+_Last updated: November 11, 2026_
 
-These terms apply to your use of [devopsmedium.com](https://devopsmedium.com), its content, and the DevOps Medium repositories on GitHub ("DevOps Medium", "we", "us"). By using the site you agree to them. If you don't agree, please don't use the site.
+These terms apply to your use of [devopsmedium.com](https://devopsmedium.com), its content, and the DevOps Medium repositories on GitHub. DevOps Medium ("we", "us") is run by Nabeel Hassan, an individual based in Pakistan. By using the site you agree to these terms. If you don't agree, please don't use the site.
 
 ## Summary
 
@@ -42,7 +42,7 @@ The site, its content and the scripts are provided **"as is" and "as available"*
 
 To the fullest extent permitted by law, DevOps Medium, its authors and contributors are not liable for any direct, indirect, incidental, special, consequential or exemplary damages arising from your use of, or inability to use, the site, its content or the scripts. This includes data loss, downtime, security incidents, service charges, lost profits and damage to systems, even if we were told such damage was possible.
 
-Some jurisdictions don't allow certain warranties to be excluded or liability to be limited. In those places, our liability is limited to the smallest amount the law allows.
+Nothing in these terms limits or excludes liability that can't be limited or excluded by law, such as liability for fraud, or for death or personal injury caused by negligence, and nothing affects rights you have as a consumer that can't be waived by contract. Some jurisdictions don't allow certain warranties to be excluded or liability to be limited. In those places, our liability is limited to the smallest amount the law allows.
 
 ## Licences
 
@@ -60,6 +60,10 @@ When you use the site, please don't:
 - Use the contact form to send spam, malware or unlawful content.
 - Republish our content commercially, or without credit, outside the terms of its licence.
 
+## Accounts
+
+Readers don't need an account. Staff accounts for our authors and editors are by invitation. If you have an account, keep your sign-in email and GitHub account secure, and tell us if you think someone else has used it. We may suspend or close accounts that break these terms.
+
 ## Third-Party Sites and Services
 
 Pages link to and embed content from other sites and services, such as GitHub, YouTube and cloud provider documentation. We don't control them and aren't responsible for their content, availability or practices. Their own terms and privacy policies apply.
@@ -74,7 +78,18 @@ Our [Privacy Policy](/privacy) explains what data we collect and how we use it.
 
 ## Indemnity
 
-If you use our content or scripts in breach of these terms or the law, and someone makes a claim against us because of it, you agree to cover the reasonable losses and costs this causes us.
+To the extent the law allows, if you use our content or scripts in breach of these terms or the law, and someone makes a claim against us because of it, you agree to cover the reasonable losses and costs this causes us.
+
+## Governing Law and Disputes
+
+These terms are governed by the laws of Pakistan. The courts in Karachi, Pakistan have jurisdiction over any dispute about them or your use of the site. If you're a consumer, you keep the protection of the mandatory laws of the country where you live, and you may also bring a claim in your local courts where that law allows. Before going to court, please email us so we can try to resolve the issue.
+
+## General
+
+- If a court finds part of these terms invalid, the rest still applies.
+- If we don't enforce a right straight away, we haven't given it up.
+- These terms and the [Privacy Policy](/privacy) are the whole agreement between you and us about the site. Courses or paid features may come with their own terms, which we'll show you before you sign up.
+- We may stop offering the site, or part of it, at any time.
 
 ## Changes
 
