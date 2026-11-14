@@ -7,7 +7,7 @@ description: The terms for using DevOps Medium, its tutorials, lab manuals and s
 
 # Terms of Use
 
-_Last updated: November 11, 2026_
+_Last updated: November 13, 2026_
 
 These terms apply to your use of [devopsmedium.com](https://devopsmedium.com), its content, and the DevOps Medium repositories on GitHub. DevOps Medium ("we", "us") is run by Nabeel Hassan, an individual based in Pakistan. By using the site you agree to these terms. If you don't agree, please don't use the site.
 
@@ -57,12 +57,18 @@ When you use the site, please don't:
 
 - Attempt to break, overload or gain unauthorised access to the site, its accounts or its infrastructure.
 - Scrape the site in a way that degrades it for others. Reading our [llms.txt](/llms.txt) and the `.md` version of any page is welcome.
-- Use the contact form to send spam, malware or unlawful content.
+- Use the contact form or the sign-in form to send spam, malware or unlawful content, or to send sign-in emails to addresses that aren't yours.
+- Create accounts automatically or in bulk.
 - Republish our content commercially, or without credit, outside the terms of its licence.
 
 ## Accounts
 
-Readers don't need an account. Staff accounts for our authors and editors are by invitation. If you have an account, keep your sign-in email and GitHub account secure, and tell us if you think someone else has used it. We may suspend or close accounts that break these terms.
+You don't need an account to read the site or take a course. A free learner account keeps your course progress and quiz results on every device. Staff accounts for our authors and editors are by invitation.
+
+- **Who can sign up:** you must be at least 13, or older where your country's law requires it. An account is for one person.
+- **Keep it secure:** your account is only as safe as your sign-in email and GitHub account. Tell us if you think someone else has used it.
+- **Progress and quiz results** are a learning aid. They aren't a certificate, a qualification or proof of skill, and we don't promise to keep a course or lesson available. When we retire one, your completed lessons stay on your account, marked "(Discontinued)".
+- **Closing your account:** you can delete it at any time on [your account page](/account). We may suspend or close accounts that break these terms, are used for abuse or spam, or that we need to close to protect the site or other people.
 
 ## Third-Party Sites and Services
 
