@@ -57,7 +57,7 @@ When you use the site, please don't:
 
 - Attempt to break, overload or gain unauthorised access to the site, its accounts or its infrastructure.
 - Scrape the site in a way that degrades it for others. Reading our [llms.txt](/llms.txt) and the `.md` version of any page is welcome.
-- Use the contact form or the sign-in form to send spam, malware or unlawful content, or to send sign-in emails to addresses that aren't yours.
+- Use the contact form to send spam, malware or unlawful content.
 - Create accounts automatically or in bulk.
 - Republish our content commercially, or without credit, outside the terms of its licence.
 
@@ -66,7 +66,7 @@ When you use the site, please don't:
 You don't need an account to read the site or take a course. A free learner account keeps your course progress and quiz results on every device. Staff accounts for our authors and editors are by invitation.
 
 - **Who can sign up:** you must be at least 13, or older where your country's law requires it. An account is for one person.
-- **Keep it secure:** your account is only as safe as your sign-in email and GitHub account. Tell us if you think someone else has used it.
+- **Keep it secure:** you sign in with your GitHub, Google or Microsoft account, so your DevOps Medium account is only as safe as that account. Tell us if you think someone else has used it.
 - **Progress and quiz results** are a learning aid. They aren't a certificate, a qualification or proof of skill, and we don't promise to keep a course or lesson available. When we retire one, your completed lessons stay on your account, marked "(Discontinued)".
 - **Closing your account:** you can delete it at any time on [your account page](/account). We may suspend or close accounts that break these terms, are used for abuse or spam, or that we need to close to protect the site or other people.
 

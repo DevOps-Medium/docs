@@ -7,7 +7,7 @@ description: What data DevOps Medium collects and why, the cookies we use, how G
 
 # Privacy Policy
 
-_Last updated: November 13, 2026_
+_Last updated: November 14, 2026_
 
 This policy explains what personal data DevOps Medium ("we", "us") collects when you use [devopsmedium.com](https://devopsmedium.com), why we collect it, and the choices you have. If you have questions, email <hello@devopsmedium.com>.
 
@@ -32,7 +32,7 @@ The [contact form](/contactus) asks for your name, email address, an optional su
 
 ### When You Browse
 
-Our hosting and content delivery provider, Cloudflare, processes technical data needed to deliver the site and keep it secure: your IP address, browser user agent, the pages you request and the time of each request. We use Cloudflare Turnstile to protect the contact form and the sign-in form from spam. Turnstile checks your browser without tracking you across sites.
+Our hosting and content delivery provider, Cloudflare, processes technical data needed to deliver the site and keep it secure: your IP address, browser user agent, the pages you request and the time of each request. We use Cloudflare Turnstile to protect the contact form from spam. Turnstile checks your browser without tracking you across sites.
 
 ### Analytics
 
@@ -53,11 +53,11 @@ When you mark a lesson complete or check a quiz, your browser remembers it in it
 
 ### Learner Accounts
 
-You can create a free account to keep your course progress and quiz results on every device. Signing in for the first time, with an email link or your GitHub account, creates it. For your account we store:
+You can create a free account to keep your course progress and quiz results on every device. You sign in with your GitHub, Google or Microsoft account, and signing in for the first time creates your account. We never see your password for those accounts. For your account we store:
 
-- **Your email address**, to sign you in and to contact you about your account if we need to.
-- **With GitHub sign-in**, the details GitHub shares with us: your GitHub user ID, username, name and avatar address.
-- **A display name**, taken from your GitHub name or the start of your email address. You can change it on your account page. Nobody else sees it.
+- **The details your sign-in provider shares with us**: your account ID with that provider, your email address, your name and the address of your profile picture, plus your username with GitHub. We use your email address to recognise you when you sign in again (including with another of these providers using the same address) and to contact you about your account if we need to. If you connect more than one of these accounts to your profile on your account page, we store these details for each of them, and you can disconnect any of them there as long as one stays connected.
+- **A display name**, taken from the name your provider shares or the start of your email address. You can change it on your account page. Nobody else sees it.
+- **Your profile picture choice**: the address of your GitHub or Google profile picture, whichever you pick on your account page (or none). We don't store or copy the picture: your browser loads it from GitHub or Google when you view your account, which tells them your IP address. Microsoft doesn't share a picture we can show.
 - **Your learning record**: which lessons you completed and when, and each quiz attempt (your answers and score). Progress saved in your browser before you signed in is added to your account.
 - **Sign-in records** kept by our sign-in provider, Supabase, for security: when you signed in, your IP address and browser.
 
@@ -105,7 +105,7 @@ Non-personalised ads can still use cookies for frequency capping, aggregated rep
 ## Third-Party Content
 
 - **YouTube videos** use YouTube's privacy-enhanced mode (`youtube-nocookie.com`) and load only when you press play.
-- **Author photos** are loaded from GitHub, which receives your IP address when your browser fetches the image.
+- **Author photos and your own profile picture** are loaded from GitHub or Google, which receive your IP address when your browser fetches the image.
 - **Links to other sites**, such as GitHub repositories, are governed by those sites' own privacy policies.
 
 ## How We Use Your Data and Our Legal Bases
@@ -117,7 +117,7 @@ Non-personalised ads can still use cookies for frequency capping, aggregated rep
 
 ## Sharing and International Transfers
 
-We share data only with the service providers that run the site for us: Cloudflare (hosting, security, spam protection, analytics), Supabase (database, sign-in and sign-in emails), Google (Gmail for contact form messages, Analytics, advertising) and GitHub (sign-in with GitHub, when you choose it). We're based in Pakistan, and these providers may process data in other countries, including the United States. Where required, they protect it with appropriate safeguards such as standard contractual clauses.
+We share data only with the service providers that run the site for us: Cloudflare (hosting, security, spam protection, analytics), Supabase (database and sign-in), Google (Gmail for contact form messages, Analytics, advertising, and sign-in with Google when you choose it), GitHub and Microsoft (sign-in with their accounts, when you choose it). We're based in Pakistan, and these providers may process data in other countries, including the United States. Where required, they protect it with appropriate safeguards such as standard contractual clauses.
 
 ## Your Rights
 
