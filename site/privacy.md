@@ -2,12 +2,12 @@
 tags: []
 howto: false
 title: Privacy Policy
-description: What data DevOps Medium collects and why, the cookies we use, how Google AdSense and Analytics work here, and how to exercise your rights.
+description: What data DevOps Medium collects and why, course purchases through Paddle, the cookies we use, AdSense and Analytics, and how to exercise your rights.
 ---
 
 # Privacy Policy
 
-_Last updated: November 14, 2026_
+_Last updated: November 15, 2026_
 
 This policy explains what personal data DevOps Medium ("we", "us") collects when you use [devopsmedium.com](https://devopsmedium.com), why we collect it, and the choices you have. If you have questions, email <hello@devopsmedium.com>.
 
@@ -17,7 +17,8 @@ DevOps Medium is run by Nabeel Hassan, an individual based in Pakistan, who deci
 
 ## Summary
 
-- You can read every tutorial, lab manual and article, and take every course, without an account.
+- You can read every tutorial, lab manual and article, and take every free course, without an account.
+- Paid courses are sold by our reseller **Paddle**, which handles your payment details; we never see your card. We keep a record of what you bought, any refund vouchers, and what tax and accounting law requires.
 - If you create a free account, we keep your email address, course progress and quiz results so they follow you across devices. You can download or delete them at any time from [your account page](/account).
 - When you contact us, we use what you send only to reply to you.
 - We measure how the site is used with Cloudflare Web Analytics (no cookies) and Google Analytics (cookies you can turn off).
@@ -63,6 +64,19 @@ You can create a free account to keep your course progress and quiz results on e
 
 Your account is private: it isn't shown to other people and we don't use it for advertising. We keep it until you delete it. On [your account page](/account) you can download your data as a file and delete your account. Deleting it removes your account, profile, progress and quiz results from our database straight away. Copies in our database provider's backups are overwritten within a few weeks. Progress saved in your browser stays until you clear your browser data.
 
+### Course Purchases
+
+Paid courses are sold through **Paddle**, our reseller and Merchant of Record. When you buy a course, you enter your payment details, email address and country (and, where tax rules require it, your postcode or tax number) into Paddle's checkout, not on our site. Paddle uses them to take your payment, work out and pay sales tax, prevent fraud and send your receipt, as an independent controller under its own [privacy notice](https://www.paddle.com/legal/privacy). We never receive your card or bank details.
+
+From Paddle, we receive and keep with your account:
+
+- **The purchase**: which course, when, the Paddle transaction and customer IDs, the price, currency, tax, discount and country, and whether it was paid, refunded or disputed.
+- **Your email address and country** as you gave them at checkout, to match the purchase to your account and to show you the right price.
+
+We also keep the **refund vouchers** we issue you (amount, validity, and whether and when they were used), your **refund requests** and our replies, and the share of each paid course you've completed, which decides whether you can get a voucher (see the [Terms of Use](/terms#refunds-and-vouchers)).
+
+We keep purchase and voucher records for as long as you have access to the course, and afterwards for as long as tax, accounting or consumer law requires us to keep them, or as we need them to deal with a dispute, refund or chargeback: up to six years after the purchase. If you delete your account, your access and unused vouchers end straight away, and we keep only the purchase records the law requires, separated from your learning data.
+
 ### Staff Accounts
 
 Authors and editors are invited and sign in the same way. For them we also store their role, and the docs they write and change are credited to them on the site, with their name, profile page and avatar.
@@ -75,16 +89,17 @@ To decide whether to show our cookie notice or Google's consent message, your br
 
 We use a small number of cookies and similar browser storage. Necessary items are always on. Google Analytics sets cookies to measure visits, and Google AdSense sets advertising cookies to personalise and measure ads; you can turn both off.
 
-| Name                                     | Provider                 | Purpose                                                                        | Category                                        | Duration                       |
-| ---------------------------------------- | ------------------------ | ------------------------------------------------------------------------------ | ----------------------------------------------- | ------------------------------ |
-| `dm_consent`                             | DevOps Medium            | Remembers your cookie choice                                                   | Necessary                                       | 6 months                       |
-| `theme` (local storage)                  | DevOps Medium            | Remembers light or dark theme                                                  | Necessary                                       | Until you clear it             |
-| `dm:tabs` (local storage)                | DevOps Medium            | Remembers code tab choices, e.g. Helm or kubectl                               | Necessary                                       | Until you clear it             |
-| `dm:gdpr` (session storage)              | DevOps Medium            | Remembers whether our cookie notice or Google's consent message applies to you | Necessary                                       | Until you close the tab        |
-| `dm:progress`, `dm:quiz` (local storage) | DevOps Medium            | Remembers the lessons you completed and your best quiz scores                  | Necessary                                       | Until you clear it             |
-| `sb-…-auth-token`                        | DevOps Medium (Supabase) | Keeps you signed in to your account; only set when you sign in                 | Necessary                                       | Until you sign out             |
-| `_ga`, `_ga_…`                           | Google                   | Google Analytics: distinguish visitors and sessions                            | Analytics                                       | 13 months                      |
-| Google AdSense cookies                   | Google                   | Show, personalise and measure ads; limit fraud                                 | Advertising (personalisation can be turned off) | Set by Google, up to 13 months |
+| Name                                     | Provider                 | Purpose                                                                                                 | Category                                        | Duration                                                                       |
+| ---------------------------------------- | ------------------------ | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------ |
+| `dm_consent`                             | DevOps Medium            | Remembers your cookie choice                                                                            | Necessary                                       | 6 months                                                                       |
+| `theme` (local storage)                  | DevOps Medium            | Remembers light or dark theme                                                                           | Necessary                                       | Until you clear it                                                             |
+| `dm:tabs` (local storage)                | DevOps Medium            | Remembers code tab choices, e.g. Helm or kubectl                                                        | Necessary                                       | Until you clear it                                                             |
+| `dm:gdpr` (session storage)              | DevOps Medium            | Remembers whether our cookie notice or Google's consent message applies to you                          | Necessary                                       | Until you close the tab                                                        |
+| `dm:progress`, `dm:quiz` (local storage) | DevOps Medium            | Remembers the lessons you completed and your best quiz scores                                           | Necessary                                       | Until you clear it                                                             |
+| `sb-…-auth-token`                        | DevOps Medium (Supabase) | Keeps you signed in to your account; only set when you sign in                                          | Necessary                                       | Until you sign out                                                             |
+| Paddle checkout cookies                  | Paddle                   | Run the checkout, keep it secure and prevent fraud; only set when you open the checkout to buy a course | Necessary                                       | Set by Paddle (see its [privacy notice](https://www.paddle.com/legal/privacy)) |
+| `_ga`, `_ga_…`                           | Google                   | Google Analytics: distinguish visitors and sessions                                                     | Analytics                                       | 13 months                                                                      |
+| Google AdSense cookies                   | Google                   | Show, personalise and measure ads; limit fraud                                                          | Advertising (personalisation can be turned off) | Set by Google, up to 13 months                                                 |
 
 To change your choice, use **Cookie Settings** in the footer of any page. In the European Economic Area, the UK and Switzerland, it opens Google's consent settings. You can also block or delete cookies in your browser settings. If you do, some preferences won't be remembered.
 
@@ -112,16 +127,18 @@ Non-personalised ads can still use cookies for frequency capping, aggregated rep
 
 - **To reply to you** when you contact us: our legitimate interest in answering your request, or steps you asked us to take.
 - **To provide your learner account**, including saving your progress and quiz results: our agreement with you (the [Terms of Use](/terms)) when you create an account.
+- **To sell you courses, give you access and handle refund vouchers**: our agreement with you (the [Terms of Use](/terms)).
+- **To keep purchase records** that tax, accounting and consumer law require: our legal obligations. To deal with disputes, chargebacks and misuse of prices or vouchers: our legitimate interest in protecting our business.
 - **To run and secure the site**, including sign-in records, staff accounts and cookieless analytics: our legitimate interest in a working, safe website that we can improve.
 - **To show ads and use analytics cookies**: in the European Economic Area, the UK and Switzerland, your consent, which you can withdraw at any time. Elsewhere, our legitimate interest in funding free content and improving it, and you can opt out at any time.
 
 ## Sharing and International Transfers
 
-We share data only with the service providers that run the site for us: Cloudflare (hosting, security, spam protection, analytics), Supabase (database and sign-in), Google (Gmail for contact form messages, Analytics, advertising, and sign-in with Google when you choose it), GitHub and Microsoft (sign-in with their accounts, when you choose it). We're based in Pakistan, and these providers may process data in other countries, including the United States. Where required, they protect it with appropriate safeguards such as standard contractual clauses.
+We share data only with the service providers that run the site for us: Cloudflare (hosting, security, spam protection, analytics), Supabase (database and sign-in), Google (Gmail for contact form messages, Analytics, advertising, and sign-in with Google when you choose it), GitHub and Microsoft (sign-in with their accounts, when you choose it). When you buy a course, Paddle, our reseller, receives the details you give at checkout as an independent controller, and sends us the purchase details described above. We're based in Pakistan, and these providers may process data in other countries, including the United States. Where required, they protect it with appropriate safeguards such as standard contractual clauses.
 
 ## Your Rights
 
-Depending on where you live, you may have the right to access, correct, delete or export your personal data, to object to or restrict how we use it, and to withdraw consent at any time. If you have an account, you can download and delete your data yourself on [your account page](/account). For anything else, email <hello@devopsmedium.com>. We'll reply within one month, and may ask you to confirm your identity first. You can also complain to your local data protection authority.
+Depending on where you live, you may have the right to access, correct, delete or export your personal data, to object to or restrict how we use it, and to withdraw consent at any time. If you have an account, you can download and delete your data yourself on [your account page](/account). For your payment details, contact Paddle at [paddle.net](https://paddle.net) or through its [privacy notice](https://www.paddle.com/legal/privacy). For anything else, email <hello@devopsmedium.com>. We'll reply within one month, and may ask you to confirm your identity first. You can also complain to your local data protection authority.
 
 ## Children
 
